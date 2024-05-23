@@ -1,4 +1,4 @@
-# fluffy-computing-machine
+Andrew Ng's Machine Learning homework and exercises
 吴恩达2022机器学习课后编程作业与习题
 
 课后作业和编程作业我已经写好 
